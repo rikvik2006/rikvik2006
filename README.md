@@ -32,3 +32,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=cobalt&locale=en" alt="rikvik2006" /></p>
+
+<!--START_SECTION:activity-->
