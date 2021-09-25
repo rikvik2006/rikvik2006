@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm rikvik2006</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<!---<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikvik2006&label=Profile%20views&color=0e75b6&style=flat-square" alt="rikvik2006" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rikvik2006&label=Profile%20views&color=0e75b6&style=flat-square" alt="rikvik2006" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikvik2006" alt="rikvik2006" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikvik2006" alt="rikvik2006" /></a> </p>-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
