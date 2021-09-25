@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikvik2006" alt="rikvik2006" /></a> </p>-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006-ma&theme=onedark)(https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Braed it's not mee6**
