@@ -18,6 +18,11 @@
 
 ---
 
+### Now Playing 🎧
+[![Spotify](https://novatorem-black-nu.vercel.app/api/spotify)](https://open.spotify.com/user/rikvik2006)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rikvik2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikvik2006" height="30" width="40" /></a>
