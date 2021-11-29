@@ -26,9 +26,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rikvik2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikvik2006" height="30" width="40" /></a>
-<a href="https://fb.com/riccardo bussano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riccardo bussano" height="30" width="40" /></a>
-<a href="https://instagram.com/riccardobussano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riccardobussano" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/riccardo bussano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="riccardo bussano" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071215161575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riccardo bussano" height="30" width="40" /></a>
+<a href="https://www.instagram.com/riccardobussano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riccardobussano" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDgxm9MRYCniss7P-4wsu_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="riccardo bussano" height="30" width="40" /></a>
 </p>
 
 <hr>
