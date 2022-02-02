@@ -8,7 +8,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006&theme=onedark&title=Stars,Followers,Commit,Joined2020,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 I’m currently working on **Braed it's not mee6**
+- 🔭 I’m currently working on a **Super secret WebSite. Shhh...**
 
 - 🌱 I’m currently learning **I’m currently learning JavaScript, C#, C++**
 
