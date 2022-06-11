@@ -65,6 +65,8 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=cobalt&locale=en" alt="rikvik2006" /></p>
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=cobalt&locale=en" alt="rikvik2006" /></span>
 
-<!--START_SECTION:activity-->
+<div style="font-size: 1.5em; padding-bottom: 0.3; font-weight: bold;">Support</div>
+
+<span><a href="https://www.buymeacoffee.com/rikvik2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eredfdfdf" /></a></span><br><br>
