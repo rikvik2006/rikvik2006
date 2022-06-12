@@ -23,13 +23,9 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rikvik2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikvik2006" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100071215161575" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riccardo bussano" height="30" width="40" /></a>
-<a href="https://www.instagram.com/riccardobussano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riccardobussano" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDgxm9MRYCniss7P-4wsu_Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="riccardo bussano" height="30" width="40" /></a>
-</p>
+## 🔍 Connected whit me
+  
+  [![My Skills](https://skillicons.dev/icons?i=twitter,instagram&perline=3)](https://skillicons.dev)
 
 ---
 
@@ -67,6 +63,8 @@
 
 <span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=cobalt&locale=en" alt="rikvik2006" /></span>
 
-<div style="font-size: 1.5em; padding-bottom: 0.3; font-weight: bold;">Support</div>
+## Support
 
-<span><a href="https://www.buymeacoffee.com/rikvik2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eredfdfdf" /></a></span><br><br>
+<span><a href="https://www.buymeacoffee.com/rikvik2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rikvik2006" /></a></span><br><br>
+
+If you want to support me clik this button, thanks so mutch 😍
