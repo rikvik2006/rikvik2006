@@ -45,7 +45,7 @@
   
 - Desktop application development
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,unity&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,unity&perline=4)](https://skillicons.dev)
   
 - Project Management and CD/CI
 
@@ -58,6 +58,14 @@
 - Devops
 
   [![My Skills](https://skillicons.dev/icons?i=docker,gcp,bash&perline=3)](https://skillicons.dev)
+  
+- Web3
+  
+  [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev)
+  
+- Other
+
+  [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
 <hr>
 
