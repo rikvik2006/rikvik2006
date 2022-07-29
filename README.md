@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on a **Super secret WebSite. Shhh...**
 
-- 🌱 I’m currently learning **I’m currently learning JavaScript, C#, C++**
+- 🌱 I’m currently learning **I’m currently learning TypeScript, NextJs, C#**
 
 - 📫 How to reach me **Discord: rikvik2006#1998**
 
