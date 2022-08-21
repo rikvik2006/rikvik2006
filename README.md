@@ -41,11 +41,11 @@
 
 - Database
 
-  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,prisma&perline=3)](https://skillicons.dev)
   
 - Desktop application development
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,unity&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,unity,unreal&perline=3)](https://skillicons.dev)
   
 - Project Management and CD/CI
 
@@ -62,6 +62,10 @@
 - Web3
   
   [![My Skills](https://skillicons.dev/icons?i=solidity&perline=3)](https://skillicons.dev)
+  
+- Testing
+
+  [![My Skills](https://skillicons.dev/icons?i=jest&perline=3)](https://skillicons.dev)
   
 - Other
 
