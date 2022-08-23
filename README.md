@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Bread it's not mee6 Web DashBoard**
 
-- 🌱 I’m currently learning **TypeScript, NextJs, C#**
+- 🌱 I’m currently learning **TypeScript, C#**
 
 - 📫 How to reach me **Discord: rikvik2006#1998**
 
