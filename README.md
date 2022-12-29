@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Bread it's not mee6 Web DashBoard**
 
-- 🌱 I’m currently learning **TypeScript, C#**
+- 🌱 I’m currently learning **Nest Js and Rust**
 
 - 📫 How to reach me **Discord: rikvik2006#1998**
 
@@ -23,12 +23,6 @@
 
 ---
 
-## 🔍 Connected whit me
-  
-  [![My Skills](https://skillicons.dev/icons?i=twitter,instagram&perline=3)](https://skillicons.dev)
-
----
-
 ## ⚡ Lenguage and tools:
 
 - Front-end development
@@ -37,7 +31,7 @@
 
 - Back-end development
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,nestjs,rust&perline=3)](https://skillicons.dev)
 
 - Database
 
@@ -45,7 +39,7 @@
   
 - Desktop application development
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,unity,unreal&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,rust,unity,unreal&perline=3)](https://skillicons.dev)
   
 - Project Management and CD/CI
 
@@ -73,7 +67,7 @@
 
 <hr>
 
-<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=cobalt&locale=en" alt="rikvik2006" /></span>
+<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=codeSTACKr&locale=en&count_private=true&custom_title=My%20stats" alt="rikvik2006" /></span>
 
 ## Support
 
