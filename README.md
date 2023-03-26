@@ -69,14 +69,10 @@
 
 ## Certificates
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="480ed71d-2cf9-43c1-b343-32ea8cfb3273" data-share-badge-host="https://www.credly.com">
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</div>
-
----
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
+
+---
 
 ## Support
 
