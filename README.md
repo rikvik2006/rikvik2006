@@ -75,7 +75,8 @@
 
 ---
 
-<span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=codeSTACKr&locale=en&count_private=true&custom_title=My%20stats" alt="rikvik2006" /></span>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Support
 
