@@ -31,7 +31,7 @@
 
 - Back-end development
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,nestjs,rust&perline=3)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,nestjs,rust,go&perline=3)](https://skillicons.dev)
 
 - Database
 
@@ -66,6 +66,14 @@
   [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev)
 
 <hr>
+
+## Certificates
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="480ed71d-2cf9-43c1-b343-32ea8cfb3273" data-share-badge-host="https://www.credly.com">
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</div>
+
+---
 
 <span>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=codeSTACKr&locale=en&count_private=true&custom_title=My%20stats" alt="rikvik2006" /></span>
 
