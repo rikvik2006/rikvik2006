@@ -74,6 +74,8 @@
 
 
 <!--START_SECTION:badges-->
+[![HackersGen Course "Excellent Commitment" - HTML & CSS](https://images.credly.com/size/110x110/images/d1eecf81-d920-4d2f-a2a8-81f0ae869a03/image.png)](http://www.credly.com/badges/1130b22d-cdda-4147-aa97-54349798a678 "HackersGen Course "Excellent Commitment" - HTML & CSS")
+[![HackersGen Course - "Excellent Commitment" GIT & GITHUB](https://images.credly.com/size/110x110/images/635fc46b-a3e0-4db8-ad86-f93ae2fb5d1f/image.png)](http://www.credly.com/badges/a8a1a606-6bcf-4aae-98dd-0155d717c753 "HackersGen Course - "Excellent Commitment" GIT & GITHUB")
 [![HackersGen Course - "Excellent Commitment" INTRODUCTION TO GOLANG](https://images.credly.com/size/110x110/images/4c02ac2e-af85-4412-a7d5-141ec1c3c005/image.png)](http://www.credly.com/badges/480ed71d-2cf9-43c1-b343-32ea8cfb3273 "HackersGen Course - "Excellent Commitment" INTRODUCTION TO GOLANG")
 <!--END_SECTION:badges-->
 
