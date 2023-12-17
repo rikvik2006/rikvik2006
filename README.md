@@ -18,17 +18,21 @@
 
 ---
 
-## 🎧 Now Playing
+<details open>
+  <summary><h2>🎧 Spotify</h2></summary>
 
 [![Spotify](https://novatorem-black-nu.vercel.app/api/spotify)](https://open.spotify.com/user/rikvik2006)
 
+</details>
+
 ---
 
-## ⚡ Language and tools
+<details open>
+  <summary><h2>⚡ Language and tools</h2></summary>
+  
+  -   Front-end development
 
--   Front-end development
-
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,bootstrap,sass&perline=3)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,bootstrap,sass&perline=3)](https://skillicons.dev)
 
 -   Back-end development
 
@@ -66,6 +70,8 @@
 
     [![My Skills](https://skillicons.dev/icons?i=python,pytorch&perline=3)](https://skillicons.dev)
 
+</details>
+
 <details close>
   <summary><h2>🏆 Certificates</h2></summary>
 
@@ -93,7 +99,7 @@
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rikvik2006&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
     </span>
     <span>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikvik2006&layout=compact&theme=dark&hide_border=true&hide=Jupyter Notebook,ShaderLab,HLSL" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikvik2006&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20Notebook,ShaderLab,HLSL" />
     </span>
   </p>
 </details>
@@ -101,7 +107,9 @@
 <details close>
   <summary><h2>☕ Support</h2></summary>
 
-If you wish to support me, you can do so by clicking the button below. Thank you so much! 😍
+  <p align="center">
+    If you wish to support me, you can do so by clicking the button below. Thank you so much! 😍
+  </p>
 
   <div align="center">
     <a href="https://www.buymeacoffee.com/rikvik2006">
