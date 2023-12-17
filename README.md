@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack web developer apprentice</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rikvik2006&label=Profile%20views&color=yellow&style=for-the-badge	" alt="rikvik2006" />
+  <img src="https://komarev.com/ghpvc/?username=rikvik2006&label=Profile%20views&color=yellow&style=for-the-badge" alt="rikvik2006" />
   <img alt="Static Badge" src="https://img.shields.io/badge/rikvik2006-gray?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F715103156568064060">
 </p>
 
