@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Nest Js and Rust**
 
-- 📫 How to reach me **Discord: rikvik2006#1998**
+- 📫 How to reach me **Discord: rikvik2006**
 
 - ⚡ Fun fact **I love playing video games**
 
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ Lenguage and tools:
+## ⚡ Language and tools:
 
 - Front-end development
 
@@ -49,7 +49,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=firebase,heroku&perline=3)](https://skillicons.dev)
   
-- Devops
+- DevOps
 
   [![My Skills](https://skillicons.dev/icons?i=docker,gcp,bash&perline=3)](https://skillicons.dev)
   
@@ -86,8 +86,13 @@
 
 ---
 
+
+
 ## Support
-
-<span><a href="https://www.buymeacoffee.com/rikvik2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rikvik2006" /></a></span><br><br>
-
-If you want to support me clik this button, thanks so mutch 😍
+<details>
+  <summary>☕ Support</summary> 
+  <br>
+  <div><a href="https://www.buymeacoffee.com/rikvik2006"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rikvik2006" /></a></div>
+  <br>
+  <p>If you want to support me click this button, thanks so much 😍</p>
+</details>
