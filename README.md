@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rikvik2006&label=Profile%20views&color=yellow&style=for-the-badge" alt="rikvik2006" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/rikvik2006-gray?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F715103156568064060">
+  <a href="https://discord.com/users/715103156568064060" target="_blank" rel="noreferrer" rel="noopener"><img alt="Static Badge" src="https://img.shields.io/badge/rikvik2006-gray?style=for-the-badge&logo=discord&logoColor=white&label=Discord&labelColor=5865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F715103156568064060"></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rikvik2006&theme=onedark&title=Stars,Followers,Commit,Joined2020,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
